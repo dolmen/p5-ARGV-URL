@@ -1,5 +1,9 @@
 package ARGV::URL;
 
+BEGIN {
+    our $VERSION = '0.91';
+}
+
 sub import
 {
     # Inspired from L<perlopentut>
