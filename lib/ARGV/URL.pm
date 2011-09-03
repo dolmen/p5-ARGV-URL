@@ -72,6 +72,8 @@ About the diamond operator (C<<>>): L<perlopentut/Filters>, L<perlop/"I/O Operat
 
 Some other modules that adds magic to C<@ARGV>: L<ARGV::readonly>, L<Encode::Argv>
 
+=back
+
 =head1 AUTHOR
 
 Olivier MenguE<eacute>, L<mailto:dolmen@cpan.org>.
