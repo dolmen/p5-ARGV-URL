@@ -1,7 +1,7 @@
 package ARGV::URL;
 
 BEGIN {
-    our $VERSION = '0.91';
+    our $VERSION = '0.92';
 }
 
 sub import
