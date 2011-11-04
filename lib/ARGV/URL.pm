@@ -1,8 +1,7 @@
-package ARGV::URL;
+use strict;
+use warnings;
 
-BEGIN {
-    our $VERSION = '0.92';
-}
+package ARGV::URL;
 
 sub import
 {
